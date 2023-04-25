@@ -12,4 +12,4 @@ and three links to INSEE website, that is the French Institute of Statistics and
 
 - https://www.insee.fr/fr/statistiques/2388572
 
-We want to answer the following question: What can you show that is instructive about this data?
+We want to answer the following question: What can we show that is instructive about this data?
